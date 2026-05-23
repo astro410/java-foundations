@@ -52,10 +52,10 @@ public class starPatAdv {
     }
     public static void main(String[]args){
         //hollow_rect(4, 5);
-        //inverted_rotated_half_pyramid(5);
+        inverted_rotated_half_pyramid(5);
         //inverted_half_pyramid_num(5);
         //floyd_Triangle(5);
-        zero_one_Triangle(5);
+        //zero_one_Triangle(5);
     }
     
 }
