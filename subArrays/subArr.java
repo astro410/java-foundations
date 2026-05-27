@@ -7,7 +7,11 @@ public class subArr {
             for(int j=i;j<numbers.length;j++){
                 int end=j;
                 for(int k=start;k<=end;k++){
+<<<<<<< HEAD
                     System.out.print(numbers[k] + " ");
+=======
+                    System.out.print(numbers[k]+ " ");
+>>>>>>> eb3a4c85e02b7081bcaf46ae13a7ff4330024cfe
                 }System.out.println();
             }System.out.println();
         }
